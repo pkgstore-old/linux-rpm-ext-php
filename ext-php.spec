@@ -54,20 +54,20 @@ META-package for install and configure PHP.
 - UPD: Move to GitHub.
 - UPD: License.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.1-103
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-103
 - Update SPEC-file.
 
-* Tue Apr 30 2019 Package Store <pkgstore@pm.me> - 1.0.1-102
+* Tue Apr 30 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-102
 - UPD: Add "php-pecl-zip".
 
-* Wed Apr 24 2019 Package Store <pkgstore@pm.me> - 1.0.1-101
+* Wed Apr 24 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-101
 - UPD: Add "php-gmp".
 
-* Fri Feb 15 2019 Package Store <pkgstore@pm.me> - 1.0.1-100
+* Fri Feb 15 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-100
 - NEW: 1.0.1-100.
 
-* Thu Jan 03 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Thu Jan 03 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - UPD: Remove "remi-release-29" requires.
 
-* Wed Jan 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Wed Jan 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
